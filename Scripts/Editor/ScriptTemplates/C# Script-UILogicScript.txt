@@ -1,0 +1,19 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+
+namespace IFrameWork
+{
+    public partial class #SCRIPTNAME# : UIBase
+    {
+        public override void OnInit()
+        {
+            base.OnInit();
+        
+            OnViewInit();
+        }
+
+        //Method
+    }
+}

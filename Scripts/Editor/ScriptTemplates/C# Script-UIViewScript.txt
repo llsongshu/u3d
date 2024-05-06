@@ -1,0 +1,19 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+//此脚本由工具自动生成 切勿手动修改
+
+namespace IFrameWork
+{
+    public partial class #SCRIPTNAME# : UIBase
+    {
+        //Statement
+        void OnViewInit()
+        {
+            //Find
+
+            //Binding
+        }
+    }
+}
